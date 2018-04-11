@@ -1,0 +1,21 @@
+{
+  "name": "symplr-mapi-daos",
+  "version": "1.0.0",
+  "description": "DAO components for the Symplr Main API",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "keywords": [
+    "symplr",
+    "main",
+    "dao"
+  ],
+  "author": "Emmanuel Martínez Fernández",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mongodb": "^3.0.5",
+    "symplr-commons": "github:lemma-atomicode/symplr-commons#dev"
+  }
+}
