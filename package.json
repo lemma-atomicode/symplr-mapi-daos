@@ -11,6 +11,9 @@
     "main",
     "dao"
   ],
+  "files": [
+    "src/*.js"
+  ],
   "author": "Emmanuel Martínez Fernández",
   "license": "ISC",
   "dependencies": {
